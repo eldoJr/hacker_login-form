@@ -1,5 +1,5 @@
-# hack-login CSS
+# Hacker Login Form
 Animated Hack Login: https://hack-login-css.vercel.app/
 
-![Animated Hack Login](https://github.com/eldoJr/hack_login-CSS/blob/main/preview.png)
+![Hacker Login Form](https://github.com/eldoJr/hack_login-CSS/blob/main/preview.png)
  
